@@ -2,7 +2,7 @@
 ##  PFA - Programa FullCycle de Aceleração - Edição Docker - Desafio 01
 ### Aluno: Pedro José Freire Castro
 
-O desafio consiste em criar um programa que exiba a listagem de alguns módulos do curso FullCycle cadastrados em um banco de dados MySQL. Deve existir um proxy http, nginx, que deve atender na porta 8080 e direcionar as conexões para o servidor da aplicação que processará a listagem dos módulos. As imagens desses containers devem ser publicados no Dockerhub. 
+O desafio consiste em criar um programa que exiba a listagem de alguns módulos do curso FullCycle cadastrados em um banco de dados MySQL. Deve existir um proxy http, nginx, que deve atender na porta 8080 e direcionar as conexões para o servidor da aplicação que processará a listagem dos módulos. As imagens desses containers devem ser publicados no Dockerhub.
 
 Tais imagens foram disponibilizadas no seguinte local:
 
