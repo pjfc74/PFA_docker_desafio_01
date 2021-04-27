@@ -4,7 +4,7 @@
 
 Como utilizar
 
-## Exemplo
+## Exemplo de uso
 
 ```
 
