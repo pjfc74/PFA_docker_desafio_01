@@ -1,7 +1,8 @@
 USE pfa_docker_desafio_01;
 CREATE TABLE cursos_fullcycle (
     id integer not null auto_increment,
-    modulo varchar(200)
+    modulo varchar(200),
+    PRIMARY KEY ( id )
 );
 SET character_set_client = utf8;
 SET character_set_connection = utf8;
