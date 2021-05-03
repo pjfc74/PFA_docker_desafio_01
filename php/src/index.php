@@ -3,7 +3,9 @@
 
     echo '<h3>LISTAGEM SIMPLES DO NOME DE ALGUNS MODULOS DO CURSO FULL CYCLE</h3>';
 
-    $mysqli = new mysqli("dbcontainer", "fullcycle", "fullcycle_mysql", "pfa_docker_desafio_01");
+/*
+
+    $mysqli = new mysqli("mysql", "fullcycle", "fullcycle_mysql", "pfa_docker_desafio_01");
 
     $sql = 'SELECT modulo FROM cursos_fullcycle ORDER BY 1 ASC';
 
@@ -12,3 +14,4 @@
             echo '<li>'.$row['modulo'].'</li>';
         }
     }
+*/    
