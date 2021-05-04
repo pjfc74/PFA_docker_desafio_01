@@ -1,6 +1,4 @@
-drop database if exists pfa_docker_desafio_02;
-create database pfa_docker_desafio_02;
-USE pfa_docker_desafio_02;
+USE pfa_docker_desafio_01;
 CREATE TABLE cursos_fullcycle (
     id integer not null auto_increment,
     modulo varchar(200),
